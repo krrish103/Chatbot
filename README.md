@@ -1,1 +1,1 @@
-# This app is for my school project. This is a web app which helps eachers reduce and make their tasks easier.
+#This is a chatbot made with ibm watson.
