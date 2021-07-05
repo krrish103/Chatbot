@@ -14,4 +14,5 @@ The bot uses NLP and ML technologies.
 
 Check the source code by clicking index.html
 
+Note - The code will slightly differ for people becuase of different assistants :)
 Thank you!
